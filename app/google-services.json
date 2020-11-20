@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "961598382043",
+    "firebase_url": "https://midterm-test-f92ca.firebaseio.com",
+    "project_id": "midterm-test-f92ca",
+    "storage_bucket": "midterm-test-f92ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961598382043:android:cb15361acc849cbb94d1fe",
+        "android_client_info": {
+          "package_name": "com.example.midtermproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961598382043-8rmghjcsfciig608l5mnqn5fnhp1l1ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIH8w113a7f_rQMZOXwyR1kgT5T09NQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961598382043-8rmghjcsfciig608l5mnqn5fnhp1l1ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961598382043:android:e84e6ec79571ae7f94d1fe",
+        "android_client_info": {
+          "package_name": "com.example.midtermtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961598382043-8rmghjcsfciig608l5mnqn5fnhp1l1ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIH8w113a7f_rQMZOXwyR1kgT5T09NQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961598382043-8rmghjcsfciig608l5mnqn5fnhp1l1ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961598382043:android:ee02996899d43d2694d1fe",
+        "android_client_info": {
+          "package_name": "com.taiyilin.stylish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961598382043-8rmghjcsfciig608l5mnqn5fnhp1l1ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIH8w113a7f_rQMZOXwyR1kgT5T09NQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961598382043-8rmghjcsfciig608l5mnqn5fnhp1l1ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
